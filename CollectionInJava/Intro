@@ -1,0 +1,38 @@
+Collections -> Framework which has a collection of interfaces and classes
+
+List -> ArrayList & LinkedList
+
+Set -> HashSet, LinkedHashSet and TreeSet
+
+Map -> HashMap, LinkedHashMap and TreeMap
+
+data structure -> arranging or organizing data in a particular manner
+
+List -> Ordered Collection or sequence -> contain duplicate elements
+
+ArrayList -> Implements List Interface -> underlying data structure is array
+
+add(Object o)
+
+add(int index, Object o)
+
+remove(Object 0)
+
+remove(int index)
+
+set(int index, Object o)
+
+size()
+
+Iterator -> hasNext() -> Check whether we have element in list or not, next() -> fetch the 
+first element and move the cursor to the next element
+
+
+Set -> Doesn't allow duplicates
+
+HashSet -> Underlying datastructure is HashTable. -> Unordered
+
+LinkedHashSet -> Underlying datastructure is Hashtable with linked list running through it
+-> Insertion-order
+
+TreeSet -> SortedOrder -> underlying datastructure is red-black tree
